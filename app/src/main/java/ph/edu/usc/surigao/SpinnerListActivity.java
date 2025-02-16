@@ -25,8 +25,6 @@ public class SpinnerListActivity extends AppCompatActivity implements AdapterVie
 
     private String[] topics = {"Basic android", "Advance Android", "Google Maps", "Android Sensors"};
 
-
-
     Integer[] imgid = {
             R.drawable.miffy,
             R.drawable.option1,
@@ -61,7 +59,6 @@ public class SpinnerListActivity extends AppCompatActivity implements AdapterVie
 
         MyListAdapter adapter = new MyListAdapter(this, courses, topics, imgid);
         list.setAdapter(adapter);
-
 
     }
 
