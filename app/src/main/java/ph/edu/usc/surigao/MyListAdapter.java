@@ -26,8 +26,6 @@ public class MyListAdapter extends ArrayAdapter<String> {
         this.courses = courses;
         this.topics = topics;
         this.imgid = imgid;
-
-
     }
 
     @Override
