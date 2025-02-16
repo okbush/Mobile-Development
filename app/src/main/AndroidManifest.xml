@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Day1_Surigao"
         tools:targetApi="31">
         <activity
-            android:name=".AdoptLoginActivity"
+            android:name=".SpinnerListActivity"
             android:exported="false" />
         <activity
             android:name=".CartItem"
@@ -34,7 +34,7 @@
             android:name=".CounterActivity"
             android:exported="false" />
         <activity
-            android:name=".SpinnerListActivity"
+            android:name=".AdoptLoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
