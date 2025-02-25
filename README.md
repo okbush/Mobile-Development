@@ -1,4 +1,4 @@
 # Mobile Apps Compilation
-*
-*
-* Pusheen
+* Student Profile App
+* Counter App
+* Adopt-A-Sheen: Pusheen Merch Store
